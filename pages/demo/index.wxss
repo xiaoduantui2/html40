@@ -1,0 +1,22 @@
+page {
+  display: flex;
+  justify-content: center;
+}
+.goods {
+  display: flex;
+  flex-direction: column;
+  width: 234px;
+  height: 224px;
+  border: 1px solid #0094ff;
+  align-items: center;
+}
+.img {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 40px;
+}
+.num {
+  color: red;
+  font-size: 20px;
+  margin:10px 0 0 10px;
+}
